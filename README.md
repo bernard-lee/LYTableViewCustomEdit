@@ -1,6 +1,8 @@
 # LYTableViewCustomEdit
 custom TableView Edit control
 
+<img src="https://github.com/bernard-lee/LYTableViewCustomEdit/blob/master/demo.gif" width="320">
+
 Building 
 ----------------
 
